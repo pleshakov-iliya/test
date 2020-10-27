@@ -17,3 +17,12 @@
     color: chocolate;
     text-align: center;
 }
+
+.button {
+    text-align: center;
+}
+
+.button__form {
+    color: darkkhaki;
+    background-color: darkslategray;
+}
